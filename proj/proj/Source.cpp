@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
 	int select = 99;
 	while (select != 0) {
 		cout << "\n\n"
-			<< " Super Studio Records here. \n Please select on of options" << endl
+			<< " RECORD STUDIO-----Please select one of the options:" << endl
 			<< " 1) Show how much albums recorded between 2 dates." << endl
 			<< " 2) Show how many songs musician recorded between 2 dates." << endl
 			<< " 3) Show how many diffrent albums recorded between 2 dates by specific musician." << endl
